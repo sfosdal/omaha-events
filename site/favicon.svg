@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#1b2733"/>
+  <!-- the Bob Kerrey Pedestrian Bridge: two pylons, their cables, the deck curving over the Missouri -->
+  <path d="M2 26 Q16 22 30 26 L30 29 L2 29 Z" fill="#2b4a6b"/>
+  <path d="M9 24V5M23 24V5" stroke="#e8eef4" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M9 6L3 21M9 6L6 21M9 6L13 21M9 6L16 21M23 6L29 21M23 6L26 21M23 6L19 21M23 6L16 21" stroke="#9fb6cc" stroke-width=".7"/>
+  <path d="M2 21.5 Q16 19.5 30 21.5" stroke="#f5f7fa" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+  <circle cx="9" cy="4.6" r="1.1" fill="#e31937"/><circle cx="23" cy="4.6" r="1.1" fill="#e31937"/>
+</svg>

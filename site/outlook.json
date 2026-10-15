@@ -1,0 +1,8 @@
+{
+  "_": "Off-season blurbs for the Teams view's form block (app.js renderTeamForm): shown before a season starts and once one is well over. Plain text, one per team slug. Edit freely — nothing generates this file.",
+  "bluejays": "Creighton's season runs early November to March at the CHI Health Center, with the Big East tournament at Madison Square Garden and the NCAA tournament beyond it; the non-conference slate fills in over the summer.",
+  "mavericks": "Omaha hockey runs early October to March at Baxter Arena, 17 or 18 home weekends, with the NCHC playoffs and the Frozen Four beyond that; the schedule is out by midsummer.",
+  "stormchasers": "The Storm Chasers' International League season runs late March to September at Werner Park, 75 home dates in six-game series; the schedule is out by the autumn before.",
+  "lancers": "The Lancers' USHL season runs late September to April at Liberty First Credit Union Arena in Ralston, 31 home dates, with the Clark Cup playoffs into May; the schedule arrives in July.",
+  "unionomaha": "Union Omaha's USL League One season runs March to October at Morrison Stadium, 16 home matches, with the playoffs into November; the fixture list arrives over the winter."
+}
