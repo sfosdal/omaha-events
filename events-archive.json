@@ -1224,6 +1224,30 @@
      "ESPN+"
     ]
    }
+  },
+  {
+   "venue": "Orpheum Theater",
+   "title": "Sonic - Live in Concert",
+   "date": "2026-10-15",
+   "time": "19:00:00",
+   "url": "https://www.omahaperformingarts.org",
+   "type": "arts"
+  },
+  {
+   "venue": "Steelhouse Omaha",
+   "title": "Movements - Happier Now USA Tour",
+   "date": "2026-10-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/movements-happier-now-usa-tour-omaha-nebraska-10-15-2026/event/200064A5E2D95BF5",
+   "type": "concert"
+  },
+  {
+   "venue": "The Waiting Room",
+   "title": "In Her Own Words w/ Every Avenue",
+   "date": "2026-10-15",
+   "time": "20:00:00",
+   "url": "http://waitingroomlounge.com/",
+   "type": "concert"
   }
  ]
 }
