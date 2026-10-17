@@ -1248,6 +1248,14 @@
    "time": "20:00:00",
    "url": "http://waitingroomlounge.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Steelhouse Omaha",
+   "title": "The Black Jacket Symphony Presents Bon Jovi's 'Slippery When Wet'",
+   "date": "2026-10-16",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/the-black-jacket-symphony-presents-bon-omaha-nebraska-10-16-2026/event/200064529E56321B",
+   "type": "concert"
   }
  ]
 }
