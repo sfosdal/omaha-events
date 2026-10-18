@@ -1256,6 +1256,75 @@
    "time": "19:30:00",
    "url": "https://www.ticketmaster.com/the-black-jacket-symphony-presents-bon-omaha-nebraska-10-16-2026/event/200064529E56321B",
    "type": "concert"
+  },
+  {
+   "venue": "Baxter Arena",
+   "title": "Omaha Hockey vs Augustana",
+   "date": "2026-10-17",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/omaha-hockey-vs-augustana-omaha-nebraska-10-17-2026/event/0600651AE324CA3E",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "NCHCHockey.com"
+    ]
+   }
+  },
+  {
+   "venue": "Liberty First Credit Union Arena",
+   "title": "Omaha Lancers vs. Tri-City Storm",
+   "date": "2026-10-17",
+   "time": "18:05:00",
+   "url": "https://www.libertyfirstcuarena.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "Holland Performing Arts Center",
+   "title": "Brad Williams",
+   "date": "2026-10-17",
+   "time": "19:00:00",
+   "url": "https://omahaperformingarts.org/our-venues/holland",
+   "type": "concert"
+  },
+  {
+   "venue": "Steelhouse Omaha",
+   "title": "Nurse John: Against Medical Advice Tour",
+   "date": "2026-10-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/nurse-john-against-medical-advice-tour-omaha-nebraska-10-17-2026/event/200064A797D137F1",
+   "type": "arts"
+  },
+  {
+   "venue": "Orpheum Theater",
+   "title": "Beat",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://www.omahaperformingarts.org",
+   "type": "concert"
+  },
+  {
+   "venue": "The Astro Theater",
+   "title": "Undertale - The Determination Symphony World Tour",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/undertale-the-determination-symphony-world-tour-la-vista-nebraska-10-17-2026/event/20006479ABB840C2",
+   "type": "concert"
+  },
+  {
+   "venue": "Slowdown",
+   "title": "Slow Pulp",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://www.theslowdown.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Steelhouse Omaha",
+   "title": "Nurse John: Against Medical Advice Tour - 9:30PM Show",
+   "date": "2026-10-17",
+   "time": "21:30:00",
+   "url": "https://www.ticketmaster.com/nurse-john-against-medical-advice-tour-omaha-nebraska-10-17-2026/event/20006504D7E73618",
+   "type": "arts"
   }
  ]
 }
