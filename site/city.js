@@ -44,7 +44,7 @@
     // school sells them itself), so the schedule is injected
     { slug: 'bluejays', label: 'Bluejays', name: 'Creighton Bluejays', abbr: 'CREI', re: /creighton(?!.*women)/i, sport: 'basketball', venue: 'CHI Health Center Omaha', colors: ['#005ca9', '#6cadde'],
       espn: { sport: 'basketball', league: 'mens-college-basketball', id: '156' }, season: { kind: 'espn' }, form: { kind: 'espn' },
-      inject: { name: 'Creighton Bluejays', url: 'https://gocreighton.com/sports/mens-basketball/tickets' },
+      inject: { name: 'Creighton Bluejays', url: 'https://gocreighton.com/sports/mens-basketball/schedule' },
       logo: 'https://a.espncdn.com/i/teamlogos/ncaa/500/156.png', schedule: 'https://gocreighton.com/sports/mens-basketball/schedule',
       club: 'Creighton Bluejays Basketball', opens: 'early November', wiki: { title: "Creighton Bluejays men's basketball", teamPage: true } },
     // Omaha Mavericks hockey, NCHC, Baxter Arena — Ticketmaster lists the home games ("Omaha Hockey vs …")
@@ -64,13 +64,13 @@
     // Omaha Lancers, USHL, Liberty First Credit Union Arena in Ralston — Ticketmaster lists the home games
     { slug: 'lancers', label: 'Lancers', name: 'Omaha Lancers', abbr: 'OMA', re: /^omaha lancers/i, sport: 'hockey', venue: 'Liberty First Credit Union Arena', colors: ['#c8102e', '#041e42'],
       season: { kind: 'hockeytech', league: USHL.league, key: USHL.key, id: 19, leagueName: 'USHL' }, form: { kind: 'hockeytech', league: USHL.league, key: USHL.key, id: 19 },
-      logo: 'https://assets.leaguestat.com/ushl/logos/19.png', schedule: 'https://lancers.com/schedule',
+      logo: 'https://assets.leaguestat.com/ushl/logos/19.png', schedule: 'https://lancers.com/calendar',
       club: 'Omaha Lancers', opens: 'late September', wiki: { title: 'Omaha Lancers' } },
     // Union Omaha, USL League One, Morrison Stadium on Creighton's campus —
     // no ticket feed lists the matches, so the schedule is injected
     { slug: 'unionomaha', label: 'Union Omaha', name: 'Union Omaha', abbr: 'OMA', re: /union omaha/i, sport: 'soccer', venue: 'Morrison Stadium', colors: ['#000000', '#c4d600'],
       espn: { sport: 'soccer', league: 'usa.usl.l1', id: '20684' }, season: { kind: 'espn' }, form: { kind: 'espn' },
-      inject: { url: 'https://www.unionomaha.com/tickets' },
+      inject: { url: 'https://www.unionomaha.com/events/' },
       logo: 'https://a.espncdn.com/i/teamlogos/soccer/500/20684.png', schedule: 'https://www.unionomaha.com/schedule',
       club: 'Union Omaha', opens: 'March', wiki: { title: 'Union Omaha' } },
   ];
