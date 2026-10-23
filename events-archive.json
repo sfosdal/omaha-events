@@ -1333,6 +1333,22 @@
    "time": "19:00:00",
    "url": "https://www.ticketmaster.com/skillet-comatose-20-years-still-screaming-omaha-nebraska-10-18-2026/event/200064CCB60F2CBC",
    "type": "concert"
+  },
+  {
+   "venue": "Baxter Arena",
+   "title": "Omaha Volleyball vs. NDSU",
+   "date": "2026-10-22",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/omaha-volleyball-vs-ndsu-omaha-nebraska-10-22-2026/event/0600650AA88E7A66",
+   "type": "sports"
+  },
+  {
+   "venue": "Slowdown",
+   "title": "Mexican Slum Rats",
+   "date": "2026-10-22",
+   "time": "20:00:00",
+   "url": "https://www.theslowdown.com/",
+   "type": "concert"
   }
  ]
 }
