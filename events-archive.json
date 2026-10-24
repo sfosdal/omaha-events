@@ -1349,6 +1349,14 @@
    "time": "20:00:00",
    "url": "https://www.theslowdown.com/",
    "type": "concert"
+  },
+  {
+   "venue": "CHI Health Center Omaha",
+   "title": "Exhibition: Creighton Bluejays vs Minnesota Golden Gophers",
+   "date": "2026-10-23",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/exhibition-creighton-bluejays-vs-minnesota-golden-omaha-nebraska-10-23-2026/event/06006549D5EEF016",
+   "type": "sports"
   }
  ]
 }
