@@ -249,10 +249,10 @@
   // The words the page uses for the place
   var WORDS = {
     teamCity: 'Omaha', // the board drops it from the clubs' names ("Omaha Mavericks" → Mavericks)
-    presetDefault: 'Every room — the CHI Health Center, Baxter Arena, Liberty First, the ballpark, the halls and the clubs — every team and type',
+    presetDefault: 'Every venue — the CHI Health Center, Baxter Arena, Liberty First, the ballpark, the halls and the clubs — every team and type',
     presetNeighborhood: 'Omaha proper only',
     presetBig: 'Only the places that hold 2,000 or more — the arenas, the ballpark, Morrison Stadium and the big halls',
-    phrases: { all: 'Showing everything.', none: 'Showing nothing yet — open Filter and pick some venues.', neighborhood: 'Showing Omaha proper only.', big: 'Showing the big rooms only — the arenas, the ballpark, Morrison Stadium and the big halls.' },
+    phrases: { all: 'Showing everything.', none: 'Showing nothing yet — open Filter and pick some venues.', neighborhood: 'Showing Omaha proper only.', big: 'Showing the big venues only — the arenas, the ballpark, Morrison Stadium and the big halls.' },
   };
 
   global.LQACity = {
