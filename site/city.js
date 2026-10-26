@@ -97,6 +97,7 @@
   var VENUES = {
     // --- the downtown arena, the campus rinks and halls, the clubs; the two grounds ---
     'CHI Health Center Omaha': {
+      geo: [41.26375, -95.92841],
       capacity: 18000,
       type: 'sports',
       cssVar: '--v-chi',
@@ -107,6 +108,7 @@
       alias: /chi health center|centurylink center omaha|qwest center/i,
     },
     'Baxter Arena': {
+      geo: [41.23882, -96.01459],
       capacity: 7898,
       type: 'sports',
       cssVar: '--v-baxter',
@@ -117,6 +119,7 @@
       alias: /baxter arena/i,
     },
     'Orpheum Theater': {
+      geo: [41.2561, -95.93717],
       capacity: 2600,
       type: 'arts',
       cssVar: '--v-orpheum',
@@ -127,6 +130,7 @@
       alias: /orpheum theat(er|re)/i,
     },
     'Holland Performing Arts Center': {
+      geo: [41.25885, -95.93201],
       capacity: 2000,
       type: 'arts',
       cssVar: '--v-holland',
@@ -137,6 +141,7 @@
       alias: /holland (performing arts )?center|kiewit concert hall/i,
     },
     'Steelhouse Omaha': {
+      geo: [41.26014, -95.93122],
       capacity: 3000,
       type: 'concert',
       cssVar: '--v-steelhouse',
@@ -147,6 +152,7 @@
       alias: /steelhouse/i,
     },
     'The Astro Theater': {
+      geo: [41.18287, -96.04084],
       capacity: 2500,
       type: 'concert',
       cssVar: '--v-astro',
@@ -157,6 +163,7 @@
       alias: /astro theat(er|re)|^the astro\b/i,
     },
     'Liberty First Credit Union Arena': {
+      geo: [41.20672, -96.02673],
       capacity: 3500,
       type: 'sports',
       cssVar: '--v-libertyfirst',
@@ -167,6 +174,7 @@
       alias: /liberty first (credit union )?arena|ralston arena/i,
     },
     'Slowdown': {
+      geo: [41.26651, -95.9342],
       capacity: 800,
       type: 'concert',
       cssVar: '--v-slowdown',
@@ -177,6 +185,7 @@
       alias: /^(the )?slowdown\b/i,
     },
     'The Waiting Room': {
+      geo: [41.28509, -96.00857],
       capacity: 400,
       type: 'concert',
       cssVar: '--v-waitingroom',
@@ -187,6 +196,7 @@
       alias: /waiting room( lounge)?/i,
     },
     'Werner Park': { // the Storm Chasers' ballpark in Papillion; nothing on Ticketmaster, the league schedule is injected
+      geo: [41.15179, -96.10642],
       capacity: 9023,
       type: 'sports',
       cssVar: '--v-werner',
@@ -196,6 +206,7 @@
       alias: /werner park/i,
     },
     'Morrison Stadium': { // Union Omaha's ground on Creighton's campus; nothing on Ticketmaster, the league schedule is injected
+      geo: [41.26488, -95.93932],
       capacity: 6000,
       type: 'sports',
       cssVar: '--v-morrison',
@@ -256,6 +267,18 @@
     ics: { name: 'Omaha Events', short: 'Omaha Events', teams: 'Omaha home teams — every season', prodid: '-//here.events//omaha-events//EN', uidDomain: 'fosdal.net', // the UID domain the whole family issues (the shared ics test pins it)
       desc: 'Upcoming events in Omaha\, NE — CHI Health Center\, Baxter Arena\, the Orpheum and the Holland Center\, Steelhouse\, the Astro and the clubs' },
     teams: TEAMS,
+    map: { // the Map view (local-map.js; the ground drawn once by scripts/build-local-map.mjs from OpenStreetMap, committed as site/local-map.json) — every city gets one, Steve, 2026-10-26
+      kind: 'urban',
+      bbox: [41.132, -96.137, 41.305, -95.898], // south, west, north, east — every room, with a margin
+      home: [41.157, -96.069, 41.311, -95.9], // the view at first: the city's own rooms; the fit button shows the whole frame
+      roads: ['motorway', 'trunk', 'primary'],
+      tolerance: 0.6,
+      labels: [
+        { name: 'Omaha', lat: 41.257, lon: -95.934, anchor: 'middle' },
+        { name: 'La Vista', lat: 41.18327, lon: -96.0324, anchor: 'middle' },
+        { name: 'Ralston', lat: 41.20167, lon: -96.03238, anchor: 'middle' },
+      ],
+    },
     venues: VENUES,
     defaultOn: DEFAULT_ON,
     defaultOff: DEFAULT_OFF,
