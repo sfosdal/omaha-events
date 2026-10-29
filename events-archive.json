@@ -1388,6 +1388,37 @@
    "date": "2026-10-27",
    "time": "20:00:00",
    "url": "https://www.theslowdown.com/"
+  },
+  {
+   "venue": "Baxter Arena",
+   "title": "Omaha Women's Basketball vs. Northern State",
+   "date": "2026-10-28",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/omaha-womens-basketball-vs-northern-state-omaha-nebraska-10-28-2026/event/06006536D8EC29A4",
+   "type": "sports"
+  },
+  {
+   "venue": "Orpheum Theater",
+   "title": "Death Becomes Her (Touring)",
+   "date": "2026-10-28",
+   "time": "19:30:00",
+   "url": "https://www.omahaperformingarts.org",
+   "type": "arts"
+  },
+  {
+   "venue": "Slowdown",
+   "title": "Prince Daddy and The Hyena",
+   "date": "2026-10-28",
+   "time": "20:00:00",
+   "url": "https://www.theslowdown.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Waiting Room",
+   "title": "Akeem Ali",
+   "date": "2026-10-28",
+   "time": "20:00:00",
+   "url": "https://www.deccalive.com/"
   }
  ]
 }
