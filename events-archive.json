@@ -1419,6 +1419,14 @@
    "date": "2026-10-28",
    "time": "20:00:00",
    "url": "https://www.deccalive.com/"
+  },
+  {
+   "venue": "Orpheum Theater",
+   "title": "Death Becomes Her (Touring)",
+   "date": "2026-10-29",
+   "time": "19:30:00",
+   "url": "https://www.omahaperformingarts.org",
+   "type": "arts"
   }
  ]
 }
