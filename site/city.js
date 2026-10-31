@@ -105,6 +105,11 @@
       url: 'https://www.chihealthcenteromaha.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.chihealthcenteromaha.com&sz=128',
       tm: { id: 'KovZpakWUe', match: 'chi health', fallbackUrl: 'https://www.chihealthcenteromaha.com/events', exclude: /full season|all[- ]session|season tickets?|parking|suite|\btours?\b/i },
+      // the venue's own calendar (The Events Calendar, the arena and the convention center: the expos, the boutique's later days, galas, shows Ticketmaster lacks),
+      // secondary behind Ticketmaster: it lists every Ticketmaster date with its clock, but its categories (Arena / Convention Center) name no type, so leading
+      // would type every concert and Disney On Ice as the venue's 'sports' (the rows it adds still carry 'sports' until the shared tribe kind can take a type);
+      // the NCAA sessions dropped — Ticketmaster lists them under titles dropClashes can't match, neither with a clock (2026-10-30)
+      feed: { kind: 'tribe', secondary: true, url: 'https://chihealthcenteromaha.com/wp-json/tribe/events/v1/events', drop: /NCAA Division I/i },
       alias: /chi health center|centurylink center omaha|qwest center/i,
     },
     'Baxter Arena': {
@@ -116,6 +121,7 @@
       url: 'https://www.baxterarena.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.baxterarena.com&sz=128',
       tm: { id: 'KovZpZAE7edA', match: 'baxter', fallbackUrl: 'https://www.baxterarena.com/events', exclude: /season tickets?|parking|suite/i },
+      feed: { kind: 'tribe', secondary: true, url: 'https://www.baxterarena.com/wp-json/tribe/events/v1/events' }, // the arena's own calendar (The Events Calendar: the Mavericks' games, boxing, the Globetrotters), secondary behind Ticketmaster — 14 of its basketball dates print no clock yet (2026-10-30)
       alias: /baxter arena/i,
     },
     'Orpheum Theater': {
@@ -149,6 +155,10 @@
       url: 'https://www.steelhouseomaha.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.steelhouseomaha.com&sz=128',
       tm: { id: 'KovZ917At_0', match: 'steelhouse', fallbackUrl: 'https://www.steelhouseomaha.com/events', exclude: /pre-show happy hour|not a (concert )?ticket|parking/i },
+      // the venue's own listing (one WordPress page, every upcoming show: "Oct 31, 2026 @ 9:00 PM" is the show clock, the doors sit apart), secondary behind
+      // Ticketmaster — the site keeps its titles in lower case ("thundercat"), so Ticketmaster's titles lead; it adds The Reset's sound mornings (2026-10-30)
+      feed: { kind: 'cards', secondary: true, url: 'https://steelhouseomaha.com/events/',
+        item: /<div class="bg-gray-800 rounded-lg overflow-hidden shadow-lg relative group">/, title: /<a href="([^"]+)" class="absolute inset-0 z-10" aria-label="([^"]*)"/, when: /<p class="text-gray-300 mb-3">\s*([^<]+?)\s*<\/p>/ },
       alias: /steelhouse/i,
     },
     'The Astro Theater': {
@@ -157,9 +167,13 @@
       type: 'concert',
       cssVar: '--v-astro',
       color: '#ea86bc',
-      url: 'https://www.astrotheater.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.astrotheater.com&sz=128',
-      tm: { id: 'KovZ917AiUn', match: 'astro', fallbackUrl: 'https://www.astrotheater.com/events', exclude: /parking|vip (upgrade|package)/i },
+      url: 'https://theastrotheater.com/', // the venue's site (astrotheater.com, the old address, is a parked domain for sale)
+      icon: 'https://www.google.com/s2/favicons?domain=theastrotheater.com&sz=128',
+      tm: { id: 'KovZ917AiUn', match: 'astro', fallbackUrl: 'https://theastrotheater.com/', exclude: /parking|vip (upgrade|package)/i },
+      // the venue's own show grid (its home page: "Nov 07 @ 7:00 pm", no year — the nearest forward; the Astro Amphitheater's summer cards kept out by the
+      // location line), secondary behind Ticketmaster: it lists the same shows, but leading would type the comedy and drag nights as the venue's 'concert' (2026-10-30)
+      feed: { kind: 'cards', secondary: true, url: 'https://theastrotheater.com/', venues: /astro theater/i,
+        item: /<div class="grid-item">/, title: /<a href="([^"]+)" class="grid-item-headline"><h2>([^<]+)<\/h2>/, when: /grid-item-date">([^<]+)</, place: /grid-item-location">([^<]*)</ },
       alias: /astro theat(er|re)|^the astro\b/i,
     },
     'Liberty First Credit Union Arena': {
