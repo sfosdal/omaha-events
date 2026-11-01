@@ -1457,6 +1457,63 @@
    "url": "https://www.ticketmaster.com/gasolina-party-18-omaha-nebraska-10-30-2026/event/20006515D3CC3E3C",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Orpheum Theater",
+   "title": "Death Becomes Her (Touring)",
+   "date": "2026-10-31",
+   "time": "14:00:00",
+   "url": "https://www.omahaperformingarts.org",
+   "type": "arts"
+  },
+  {
+   "venue": "Orpheum Theater",
+   "title": "Death Becomes Her (Touring)",
+   "date": "2026-10-31",
+   "time": "19:30:00",
+   "url": "https://www.omahaperformingarts.org",
+   "type": "arts"
+  },
+  {
+   "venue": "Liberty First Credit Union Arena",
+   "title": "Omaha Lancers vs. Lincoln Stars",
+   "date": "2026-10-31",
+   "time": "19:30:00",
+   "url": "https://www.libertyfirstcuarena.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "The Astro Theater",
+   "title": "Daughtry - 20 Years Unplugged Tour",
+   "date": "2026-10-31",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/daughtry-20-years-unplugged-tour-la-vista-nebraska-10-31-2026/event/200064CA896016AD",
+   "type": "concert"
+  },
+  {
+   "venue": "Slowdown",
+   "title": "Donny Benet w/ OTNES",
+   "date": "2026-10-31",
+   "time": "20:00:00",
+   "url": "https://www.theslowdown.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Steelhouse Omaha",
+   "title": "It's A 2000's (Halloween) Party - 21+",
+   "date": "2026-10-31",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/its-a-2000s-halloween-party-21-omaha-nebraska-10-31-2026/event/20006513A1162BA3",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "The Waiting Room",
+   "title": "Emo Nite (18 and Over)",
+   "date": "2026-10-31",
+   "time": "21:00:00",
+   "url": "http://waitingroomlounge.com/",
+   "type": "concert"
   }
  ]
 }
