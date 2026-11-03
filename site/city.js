@@ -283,6 +283,7 @@
     teams: TEAMS,
     map: { // the Map view (local-map.js; the ground drawn once by scripts/build-local-map.mjs from OpenStreetMap, committed as site/local-map.json) — every city gets one, Steve, 2026-10-26
       kind: 'urban',
+      boundary: { osm: 169759 }, // the city line, always drawn (Steve, 2026-11-02): OpenStreetMap's boundary relation for Omaha
       bbox: [41.132, -96.137, 41.305, -95.898], // south, west, north, east — every room, with a margin
       home: [41.157, -96.069, 41.311, -95.9], // the view at first: the city's own rooms; the fit button shows the whole frame
       roads: ['motorway', 'trunk', 'primary'],
