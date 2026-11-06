@@ -1566,6 +1566,27 @@
    "time": "11:30",
    "url": "https://www.ateaseusa.org/annual-luncheon",
    "type": "sports"
+  },
+  {
+   "venue": "CHI Health Center Omaha",
+   "title": "Creighton Bluejays vs Le Moyne Dolphins",
+   "date": "2026-11-05",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/creighton-bluejays-vs-le-moyne-dolphins-omaha-nebraska-11-05-2026/event/06006549D5F7F022",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN+"
+    ]
+   }
+  },
+  {
+   "venue": "The Waiting Room",
+   "title": "Authority Zero w/ The Raging Nathans",
+   "date": "2026-11-05",
+   "time": "20:00:00",
+   "url": "http://waitingroomlounge.com/",
+   "type": "concert"
   }
  ]
 }
