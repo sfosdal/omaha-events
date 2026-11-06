@@ -182,9 +182,9 @@
       type: 'sports',
       cssVar: '--v-libertyfirst',
       color: '#9fea86',
-      url: 'https://www.libertyfirstcuarena.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.libertyfirstcuarena.com&sz=128',
-      tm: { id: 'KovZ917Am5n', match: 'liberty first', fallbackUrl: 'https://www.libertyfirstcuarena.com/events', exclude: /season tickets?|flex pack|parking|suite/i },
+      url: 'https://www.libertyfirstcreditunionarena.com/events/all',
+      icon: 'https://www.google.com/s2/favicons?domain=www.libertyfirstcreditunionarena.com&sz=128',
+      tm: { id: 'KovZ917Am5n', match: 'liberty first', fallbackUrl: 'https://www.libertyfirstcreditunionarena.com/events/all', exclude: /season tickets?|flex pack|parking|suite/i },
       alias: /liberty first (credit union )?arena|ralston arena/i,
     },
     'Slowdown': {
