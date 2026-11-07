@@ -103,7 +103,7 @@
       cssVar: '--v-chi',
       color: '#ea8686',
       url: 'https://www.chihealthcenteromaha.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.chihealthcenteromaha.com&sz=128',
+      icon: 'marks/venues/chihealthcenteromaha.com.png',
       tm: { id: 'KovZpakWUe', match: 'chi health', fallbackUrl: 'https://www.chihealthcenteromaha.com/events', exclude: /full season|all[- ]session|season tickets?|parking|suite|\btours?\b/i },
       // the venue's own calendar (The Events Calendar, the arena and the convention center: the expos, the boutique's later days, galas, shows Ticketmaster lacks),
       // secondary behind Ticketmaster: it lists every Ticketmaster date with its clock, but its categories (Arena / Convention Center) name no type, so leading
@@ -119,7 +119,7 @@
       cssVar: '--v-baxter',
       color: '#86eaa3',
       url: 'https://www.baxterarena.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.baxterarena.com&sz=128',
+      icon: 'marks/venues/baxterarena.com.png',
       tm: { id: 'KovZpZAE7edA', match: 'baxter', fallbackUrl: 'https://www.baxterarena.com/events', exclude: /season tickets?|parking|suite/i },
       feed: { kind: 'tribe', secondary: true, url: 'https://www.baxterarena.com/wp-json/tribe/events/v1/events' }, // the arena's own calendar (The Events Calendar: the Mavericks' games, boxing, the Globetrotters), secondary behind Ticketmaster — 14 of its basketball dates print no clock yet (2026-10-30)
       alias: /baxter arena/i,
@@ -131,7 +131,7 @@
       cssVar: '--v-orpheum',
       color: '#c086ea',
       url: 'https://o-pa.org/events',
-      icon: 'https://www.google.com/s2/favicons?domain=o-pa.org&sz=128',
+      icon: 'marks/venues/o-pa.org.png',
       tm: { id: 'KovZpZAdlAkA', match: 'orpheum', fallbackUrl: 'https://o-pa.org/events', exclude: /parking|\btours?\b|season (tickets?|package)/i },
       alias: /orpheum theat(er|re)/i,
     },
@@ -142,7 +142,7 @@
       cssVar: '--v-holland',
       color: '#eadd86',
       url: 'https://o-pa.org/events',
-      icon: 'https://www.google.com/s2/favicons?domain=o-pa.org&sz=128',
+      icon: 'marks/venues/o-pa.org.png',
       tm: { id: 'KovZpZAaatEA', match: 'holland', fallbackUrl: 'https://o-pa.org/events', exclude: /parking|\btours?\b|season (tickets?|package)/i },
       alias: /holland (performing arts )?center|kiewit concert hall/i,
     },
@@ -153,7 +153,7 @@
       cssVar: '--v-steelhouse',
       color: '#86d9ea',
       url: 'https://www.steelhouseomaha.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.steelhouseomaha.com&sz=128',
+      icon: 'marks/venues/steelhouseomaha.com.png',
       tm: { id: 'KovZ917At_0', match: 'steelhouse', fallbackUrl: 'https://www.steelhouseomaha.com/events', exclude: /pre-show happy hour|not a (concert )?ticket|parking/i },
       // the venue's own listing (one WordPress page, every upcoming show: "Oct 31, 2026 @ 9:00 PM" is the show clock, the doors sit apart), secondary behind
       // Ticketmaster — the site keeps its titles in lower case ("thundercat"), so Ticketmaster's titles lead; it adds The Reset's sound mornings (2026-10-30)
@@ -168,7 +168,7 @@
       cssVar: '--v-astro',
       color: '#ea86bc',
       url: 'https://theastrotheater.com/', // the venue's site (astrotheater.com, the old address, is a parked domain for sale)
-      icon: 'https://www.google.com/s2/favicons?domain=theastrotheater.com&sz=128',
+      icon: 'marks/venues/theastrotheater.com.png',
       tm: { id: 'KovZ917AiUn', match: 'astro', fallbackUrl: 'https://theastrotheater.com/', exclude: /parking|vip (upgrade|package)/i },
       // the venue's own show grid (its home page: "Nov 07 @ 7:00 pm", no year — the nearest forward; the Astro Amphitheater's summer cards kept out by the
       // location line), secondary behind Ticketmaster: it lists the same shows, but leading would type the comedy and drag nights as the venue's 'concert' (2026-10-30)
@@ -183,7 +183,7 @@
       cssVar: '--v-libertyfirst',
       color: '#9fea86',
       url: 'https://www.libertyfirstcreditunionarena.com/events/all',
-      icon: 'https://www.google.com/s2/favicons?domain=www.libertyfirstcreditunionarena.com&sz=128',
+      icon: 'marks/venues/libertyfirstcreditunionarena.com.png',
       tm: { id: 'KovZ917Am5n', match: 'liberty first', fallbackUrl: 'https://www.libertyfirstcreditunionarena.com/events/all', exclude: /season tickets?|flex pack|parking|suite/i },
       alias: /liberty first (credit union )?arena|ralston arena/i,
     },
@@ -194,7 +194,7 @@
       cssVar: '--v-slowdown',
       color: '#8a86ea',
       url: 'https://theslowdown.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=theslowdown.com&sz=128',
+      icon: 'marks/venues/theslowdown.com.jpg',
       tm: { id: 'KovZpZAJEvlA', match: 'slowdown', fallbackUrl: 'https://theslowdown.com/events', exclude: /parking/i },
       alias: /^(the )?slowdown\b/i,
     },
@@ -205,7 +205,7 @@
       cssVar: '--v-waitingroom',
       color: '#eaa786',
       url: 'https://waitingroomlounge.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=waitingroomlounge.com&sz=128',
+      icon: 'marks/venues/waitingroomlounge.com.jpg',
       tm: { id: 'KovZpZA1Ie1A', match: 'waiting room', fallbackUrl: 'https://waitingroomlounge.com/events', exclude: /parking/i },
       alias: /waiting room( lounge)?/i,
     },
@@ -216,7 +216,7 @@
       cssVar: '--v-werner',
       color: '#86eac4',
       url: 'https://www.milb.com/omaha/schedule',
-      icon: 'https://www.google.com/s2/favicons?domain=www.milb.com&sz=128',
+      icon: 'marks/venues/milb.com.png',
       alias: /werner park/i,
     },
     'Morrison Stadium': { // Union Omaha's ground on Creighton's campus; nothing on Ticketmaster, the league schedule is injected
@@ -226,7 +226,7 @@
       cssVar: '--v-morrison',
       color: '#e186ea',
       url: 'https://www.unionomaha.com/schedule',
-      icon: 'https://www.google.com/s2/favicons?domain=www.unionomaha.com&sz=128',
+      icon: 'marks/venues/unionomaha.com.png',
       alias: /morrison stadium/i,
     },
   };
