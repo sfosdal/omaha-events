@@ -50,7 +50,7 @@
     // Omaha Mavericks hockey, NCHC, Baxter Arena — Ticketmaster lists the home games ("Omaha Hockey vs …")
     { slug: 'mavericks', label: 'Mavericks', name: 'Omaha Mavericks', abbr: 'OMA', re: /omaha (mavericks )?hockey|mavericks hockey/i, sport: 'hockey', venue: 'Baxter Arena', colors: ['#d71920', '#000000'],
       espn: { sport: 'hockey', league: 'mens-college-hockey', id: '2437' }, season: { kind: 'espn' }, form: { kind: 'espn' },
-      logo: 'https://a.espncdn.com/i/teamlogos/ncaa/500/2437.png', schedule: 'https://omavs.com/sports/mens-ice-hockey/schedule',
+      logo: 'https://a.espncdn.com/i/teamlogos/ncaa/500/2437.png', schedule: 'https://omahamavs.com/sports/mens-ice-hockey/schedule',
       club: 'Omaha Mavericks Hockey', opens: 'early October', wiki: { title: 'Omaha Mavericks men\'s ice hockey', teamPage: true } },
     // Omaha Storm Chasers, Triple-A International League (Royals affiliate),
     // Werner Park in Papillion — no ticket feed lists the home stands, so
