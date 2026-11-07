@@ -194,7 +194,6 @@
       cssVar: '--v-slowdown',
       color: '#8a86ea',
       url: 'https://theslowdown.com/events',
-      icon: 'marks/venues/theslowdown.com.jpg',
       tm: { id: 'KovZpZAJEvlA', match: 'slowdown', fallbackUrl: 'https://theslowdown.com/events', exclude: /parking/i },
       alias: /^(the )?slowdown\b/i,
     },
