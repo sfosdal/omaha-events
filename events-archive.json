@@ -1603,6 +1603,29 @@
    "time": "20:00:00",
    "url": "https://www.theslowdown.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Baxter Arena",
+   "title": "Omaha Hockey v St. Cloud State",
+   "date": "2026-11-07",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/omaha-hockey-v-st-cloud-state-omaha-nebraska-11-07-2026/event/0600651AEB98D6C1",
+   "type": "sports"
+  },
+  {
+   "venue": "The Astro Theater",
+   "title": "Everclear - Lucky 7 Tour",
+   "date": "2026-11-07",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/everclear-lucky-7-tour-la-vista-nebraska-11-07-2026/event/200064AC89D3247E",
+   "type": "concert"
+  },
+  {
+   "venue": "Slowdown",
+   "title": "Kat Hasty",
+   "date": "2026-11-07",
+   "time": "20:00:00",
+   "url": "https://www.theslowdown.com/"
   }
  ]
 }
