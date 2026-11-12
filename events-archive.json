@@ -1657,6 +1657,22 @@
    "date": "2026-11-10",
    "time": "20:00:00",
    "url": "https://www.theslowdown.com/"
+  },
+  {
+   "venue": "CHI Health Center Omaha",
+   "title": "Motionless in White: The Sweat and Blood Tour",
+   "date": "2026-11-11",
+   "time": "18:30",
+   "url": "https://chihealthcenteromaha.com/event/motionless-in-white-the-sweat-and-blood-tour/",
+   "type": "sports"
+  },
+  {
+   "venue": "The Waiting Room",
+   "title": "Halocene",
+   "date": "2026-11-11",
+   "time": "19:00:00",
+   "url": "http://waitingroomlounge.com/",
+   "type": "concert"
   }
  ]
 }
