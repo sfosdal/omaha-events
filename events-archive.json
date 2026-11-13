@@ -1673,6 +1673,14 @@
    "time": "19:00:00",
    "url": "http://waitingroomlounge.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Baxter Arena",
+   "title": "Omaha Volleyball vs. Kansas City",
+   "date": "2026-11-12",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/omaha-volleyball-vs-kansas-city-omaha-nebraska-11-12-2026/event/0600650AACB48322",
+   "type": "sports"
   }
  ]
 }
