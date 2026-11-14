@@ -1681,6 +1681,59 @@
    "time": "18:30:00",
    "url": "https://www.ticketmaster.com/omaha-volleyball-vs-kansas-city-omaha-nebraska-11-12-2026/event/0600650AACB48322",
    "type": "sports"
+  },
+  {
+   "venue": "CHI Health Center Omaha",
+   "title": "Omaha Holiday Boutique Qualifiers Comps",
+   "date": "2026-11-13",
+   "time": "",
+   "url": "https://www.ticketmaster.com/omaha-holiday-boutique-qualifiers-comps-omaha-nebraska-11-13-2026/event/0600652A8FEB5957"
+  },
+  {
+   "venue": "CHI Health Center Omaha",
+   "title": "Omaha Holiday Boutique",
+   "date": "2026-11-13",
+   "time": "",
+   "url": "https://www.ticketmaster.com/omaha-holiday-boutique-omaha-nebraska-11-13-2026/event/0600648FCE0FD428"
+  },
+  {
+   "venue": "Baxter Arena",
+   "title": "Omaha Women's Basketball vs. Drake",
+   "date": "2026-11-13",
+   "time": "17:30:00",
+   "url": "https://www.ticketmaster.com/omaha-womens-basketball-vs-drake-omaha-nebraska-11-13-2026/event/0600653795548A6B",
+   "type": "sports"
+  },
+  {
+   "venue": "Liberty First Credit Union Arena",
+   "title": "Omaha Lancers vs. Sioux Falls Stampede",
+   "date": "2026-11-13",
+   "time": "19:05:00",
+   "url": "https://www.libertyfirstcreditunionarena.com/events/all",
+   "type": "sports"
+  },
+  {
+   "venue": "Holland Performing Arts Center",
+   "title": "An Evening with Kathy Tyree and Friends",
+   "date": "2026-11-13",
+   "time": "19:30:00",
+   "url": "https://omahaperformingarts.org/our-venues/holland"
+  },
+  {
+   "venue": "Baxter Arena",
+   "title": "Omaha Men's Basketball vs. Lindenwood",
+   "date": "2026-11-13",
+   "time": "19:45:00",
+   "url": "https://www.ticketmaster.com/omaha-mens-basketball-vs-lindenwood-omaha-nebraska-11-13-2026/event/06006542A317AFF1",
+   "type": "sports"
+  },
+  {
+   "venue": "Steelhouse Omaha",
+   "title": "Thundercat: Distracted AF Tour",
+   "date": "2026-11-13",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/thundercat-distracted-af-tour-omaha-nebraska-11-13-2026/event/200064E1DB3B331F",
+   "type": "concert"
   }
  ]
 }
