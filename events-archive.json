@@ -1734,6 +1734,53 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/thundercat-distracted-af-tour-omaha-nebraska-11-13-2026/event/200064E1DB3B331F",
    "type": "concert"
+  },
+  {
+   "venue": "CHI Health Center Omaha",
+   "title": "Omaha Holiday Boutique 2026",
+   "date": "2026-11-14",
+   "time": "09:00",
+   "url": "https://www.omahaholidayboutique.com/",
+   "type": "sports"
+  },
+  {
+   "venue": "Baxter Arena",
+   "title": "Omaha Volleyball vs. Oral Roberts",
+   "date": "2026-11-14",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/omaha-volleyball-vs-oral-roberts-omaha-nebraska-11-14-2026/event/0600650AACF4837B",
+   "type": "sports"
+  },
+  {
+   "venue": "CHI Health Center Omaha",
+   "title": "Children’s Nebraska Foundation Gala 2026",
+   "date": "2026-11-14",
+   "time": "18:00",
+   "url": "https://www.childrensnebraska.org/health-hub/childrens-gala-2026",
+   "type": "sports"
+  },
+  {
+   "venue": "The Astro Theater",
+   "title": "Scott Bradlee's Postmodern Jukebox - The Future Is Vintage World Tour",
+   "date": "2026-11-14",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-la-vista-nebraska-11-14-2026/event/2000649CA4154548",
+   "type": "concert"
+  },
+  {
+   "venue": "Slowdown",
+   "title": "Violenteer",
+   "date": "2026-11-14",
+   "time": "20:00:00",
+   "url": "https://www.theslowdown.com/"
+  },
+  {
+   "venue": "The Waiting Room",
+   "title": "Zepparella w/ Bad Bad Men",
+   "date": "2026-11-14",
+   "time": "20:00:00",
+   "url": "http://waitingroomlounge.com/",
+   "type": "concert"
   }
  ]
 }
