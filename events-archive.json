@@ -1805,6 +1805,41 @@
    "time": "20:00:00",
    "url": "http://waitingroomlounge.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Baxter Arena",
+   "title": "Omaha Men's Basketball vs. Lamar",
+   "date": "2026-11-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/omaha-mens-basketball-vs-lamar-omaha-nebraska-11-17-2026/event/06006542A433B2FB",
+   "type": "sports",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:25:15.409Z",
+    "from": 28.83
+   }
+  },
+  {
+   "venue": "The Astro Theater",
+   "title": "The Living Tombstone",
+   "date": "2026-11-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/the-living-tombstone-la-vista-nebraska-11-17-2026/event/2000645889539D92",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:25:35.517Z",
+    "from": 57.6
+   }
+  },
+  {
+   "venue": "Slowdown",
+   "title": "GHOSTWOMAN",
+   "date": "2026-11-17",
+   "time": "20:00:00",
+   "url": "https://www.theslowdown.com/"
   }
  ]
 }
