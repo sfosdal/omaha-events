@@ -1840,6 +1840,27 @@
    "date": "2026-11-17",
    "time": "20:00:00",
    "url": "https://www.theslowdown.com/"
+  },
+  {
+   "venue": "CHI Health Center Omaha",
+   "title": "Creighton Bluejays vs Bethune-Cookman Wildcats",
+   "date": "2026-11-18",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/creighton-bluejays-vs-bethunecookman-wildcats-omaha-nebraska-11-18-2026/event/06006549D5FDF034",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "truTV"
+    ]
+   }
+  },
+  {
+   "venue": "The Waiting Room",
+   "title": "Black Stone Cherry???s Bonfire Nights: An Acoustic Evening",
+   "date": "2026-11-18",
+   "time": "20:00:00",
+   "url": "http://waitingroomlounge.com/",
+   "type": "concert"
   }
  ]
 }
