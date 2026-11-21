@@ -1861,6 +1861,70 @@
    "time": "20:00:00",
    "url": "http://waitingroomlounge.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Baxter Arena",
+   "title": "Omaha Hockey v Western Michigan",
+   "date": "2026-11-20",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/omaha-hockey-v-western-michigan-omaha-nebraska-11-20-2026/event/0600651AEC55D7A8",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "NCHCHockey.com"
+    ]
+   },
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:37:19.814Z",
+    "from": 40.23
+   }
+  },
+  {
+   "venue": "Steelhouse Omaha",
+   "title": "Sabaton: Legends on Tour",
+   "date": "2026-11-20",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/sabaton-legends-on-tour-omaha-nebraska-11-20-2026/event/20006328BBAC19A8",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:37:39.912Z",
+    "from": 40.25
+   }
+  },
+  {
+   "venue": "Liberty First Credit Union Arena",
+   "title": "Omaha Lancers vs. Fargo Force",
+   "date": "2026-11-20",
+   "time": "19:05:00",
+   "url": "https://www.libertyfirstcreditunionarena.com/events/all",
+   "type": "sports"
+  },
+  {
+   "venue": "Orpheum Theater",
+   "title": "Beetlejuice (Touring)",
+   "date": "2026-11-20",
+   "time": "19:30:00",
+   "url": "https://www.omahaperformingarts.org",
+   "type": "arts"
+  },
+  {
+   "venue": "Slowdown",
+   "title": "Russian Circles",
+   "date": "2026-11-20",
+   "time": "20:00:00",
+   "url": "https://www.theslowdown.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Waiting Room",
+   "title": "Blade Rave - Ages 18+",
+   "date": "2026-11-20",
+   "time": "21:00:00",
+   "url": "http://waitingroomlounge.com/"
   }
  ]
 }
