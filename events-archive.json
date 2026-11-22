@@ -1925,6 +1925,64 @@
    "date": "2026-11-20",
    "time": "21:00:00",
    "url": "http://waitingroomlounge.com/"
+  },
+  {
+   "venue": "Orpheum Theater",
+   "title": "Beetlejuice (Touring)",
+   "date": "2026-11-21",
+   "time": "14:00:00",
+   "url": "https://www.omahaperformingarts.org",
+   "type": "arts"
+  },
+  {
+   "venue": "Liberty First Credit Union Arena",
+   "title": "Omaha Lancers vs. Fargo Force",
+   "date": "2026-11-21",
+   "time": "18:05:00",
+   "url": "https://www.libertyfirstcreditunionarena.com/events/all",
+   "type": "sports"
+  },
+  {
+   "venue": "Baxter Arena",
+   "title": "Omaha Hockey v Western Michigan",
+   "date": "2026-11-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/omaha-hockey-v-western-michigan-omaha-nebraska-11-21-2026/event/0600651AECFCD83C",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "NCHCHockey.com"
+    ]
+   },
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:50:55.098Z",
+    "from": 40.23
+   }
+  },
+  {
+   "venue": "Orpheum Theater",
+   "title": "Beetlejuice (Touring)",
+   "date": "2026-11-21",
+   "time": "19:30:00",
+   "url": "https://www.omahaperformingarts.org",
+   "type": "arts"
+  },
+  {
+   "venue": "Steelhouse Omaha",
+   "title": "Deorro - 18+",
+   "date": "2026-11-21",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/deorro-18-omaha-nebraska-11-21-2026/event/20006521D5BD460B",
+   "age21": true,
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:51:15.338Z",
+    "from": 46.25
+   }
   }
  ]
 }
