@@ -1983,6 +1983,34 @@
     "checked": "2026-11-21T00:51:15.338Z",
     "from": 46.25
    }
+  },
+  {
+   "venue": "Baxter Arena",
+   "title": "Omaha Women's Basketball vs. Air Force",
+   "date": "2026-11-22",
+   "time": "12:00:00",
+   "url": "https://www.ticketmaster.com/omaha-womens-basketball-vs-air-force-omaha-nebraska-11-22-2026/event/0600653795F48C1F",
+   "type": "sports",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T01:24:43.456Z",
+    "from": 19.13
+   }
+  },
+  {
+   "venue": "Steelhouse Omaha",
+   "title": "Beartooth: Pure Ecstasy World Tour",
+   "date": "2026-11-22",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/beartooth-pure-ecstasy-world-tour-omaha-nebraska-11-22-2026/event/200064ACDD1C59CE",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T01:25:03.473Z",
+    "from": 34.58
+   }
   }
  ]
 }
